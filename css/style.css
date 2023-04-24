@@ -133,13 +133,13 @@ p a:hover {
 	margin: 0;
 	padding: 0 0 44px;
 }
-#body img.figure {
-	display: block;
-	float: right;
-	margin: 74px 38px 46px 0;
-	max-width: 100%;
-	width: auto;
-}
+	#body img.figure {
+		display: block;
+		float: right;
+		margin: 0 auto;
+		max-width: 100%;
+		width: auto;
+	}
 #body div#tagline {
 	float: left;
 	margin: 110px 0 0 25px;
